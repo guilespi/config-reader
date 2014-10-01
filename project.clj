@@ -1,4 +1,4 @@
-(defproject config-reader "0.1.0"
+(defproject com.intception/config-reader "0.1.1"
   :description "Reads configuration options from file or environment "
   :url "https://github.com/guilespi/config-reader"
   :license {:name "Eclipse Public License"
